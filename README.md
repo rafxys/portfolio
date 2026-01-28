@@ -8,20 +8,24 @@ Portfólio pessoal focado em desenvolvimento de software e análise de dados, ap
 
 ## 🚀 Diferenciais Técnicos
 
-* **Integração com GitHub API**: Listagem dinâmica de repositórios da organização **Core Syntax Labs** e projetos pessoais.
-* **Performance com Next.js**: Uso de Server Components para busca de dados e revalidação de cache.
-* **Acessibilidade**: Desenvolvido com foco em legibilidade, incluindo interesse em fontes para dislexia como OpenDyslexic.
+* **Integração Dinâmica**: Consumo em tempo real das APIs do GitHub para listar projetos da organização **Core Syntax Labs** e repositórios pessoais.
+* **Server-Side Rendering (SSR)**: Implementado com Server Components do Next.js para busca de dados eficiente e otimização de SEO.
+* **UI/UX Customizada**: Interface construída do zero com Tailwind CSS, incluindo animações de "blink" e tipografia mono para reforçar a identidade visual de desenvolvedor.
 
-## 🛠️ Tech Stack & Domínios
+## 🛠️ Tecnologias Utilizadas no Projeto
 
-* **Frontend**: React, Next.js, Vite, Tailwind CSS, HTML e CSS.
-* **Backend & Data**: NodeJS, MySQL, Python e Machine Learning.
-* **BI & Analytics**: Power BI e Excel.
+Este projeto foi construído utilizando as ferramentas mais modernas do ecossistema Web:
 
-## 📁 Projetos em Destaque
+* **Next.js**: Framework principal para roteamento, Server Components e otimização de imagens.
+* **Tailwind CSS**: Utilizado para toda a estilização responsiva e animações customizadas "on-the-fly".
+* **React**: Biblioteca base para a construção da interface declarativa e componentização.
+* **Lucide React**: Biblioteca de ícones minimalistas integrada para suporte visual.
 
-O portfólio consome automaticamente dados do GitHub, incluindo meus projetos pessoais e de organizações.
+## 📁 Filtros de Repositórios
 
+O portfólio possui uma lógica personalizada para exibir apenas o que importa:
+* **Filtro de Perfil**: Remove automaticamente o repositório de README pessoal para focar em projetos de código.
+* **Filtro de Organização**: Oculta repositórios de configuração (como `.github`) da **Core Syntax Labs**.
 
 ---
 
