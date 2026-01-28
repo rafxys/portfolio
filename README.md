@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+T# 🕹️ Rafael Galvão | Portfolio.sys
 
-## Getting Started
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-First, run the development server:
+Portfólio pessoal focado em desenvolvimento de software e análise de dados, apresentando uma estética com efeitos de terminal e suporte a Dark Mode.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Diferenciais Técnicos
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* **Integração com GitHub API**: Listagem dinâmica de repositórios da organização **Core Syntax Labs** e projetos pessoais.
+* **Performance com Next.js**: Uso de Server Components para busca de dados e revalidação de cache.
+* **Acessibilidade**: Desenvolvido com foco em legibilidade, incluindo interesse em fontes para dislexia como OpenDyslexic.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack & Domínios
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* **Frontend**: React, Next.js, Vite, Tailwind CSS, HTML e CSS.
+* **Backend & Data**: NodeJS, MySQL, Python e Machine Learning.
+* **BI & Analytics**: Power BI e Excel.
 
-## Learn More
+## 📁 Projetos em Destaque
 
-To learn more about Next.js, take a look at the following resources:
+O portfólio consome automaticamente dados do GitHub, incluindo meus projetos pessoais e de organizações.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📫 Contato
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* **LinkedIn**: [Rafael Alexandre](https://www.linkedin.com/in/rafael-alexandre-7b9705333/)
+* **E-mail**: [rafaelgalvaodev@gmail.com](mailto:rafaelgalvaodev@gmail.com)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> _"Transformando ideias em experiências digitais elegantes."_
